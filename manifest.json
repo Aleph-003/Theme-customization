@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Global Dark Theme",
+  "name": "Customizable Theme",
   "version": "1.0",
-  "description": "A dark theme applied to all websites",
+  "description": "...",
   "theme": {
     "colors": {
       "frame": [
