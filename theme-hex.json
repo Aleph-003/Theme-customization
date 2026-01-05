@@ -1,0 +1,11 @@
+{
+    "frame": "#101010",
+    "frame_inactive": "#181818",
+    "toolbar": "#000000",
+    "tab_text": "#FFFFFF",
+    "tab_background_text": "#3E3B89",
+    "bookmark_text": "#3E3B89",
+    "omnibox_text": "#3E3B89",
+    "omnibox_background": "#101010",
+    "toolbar_button_icon": "#3E3B89"
+} 

@@ -1,0 +1,55 @@
+{
+  "manifest_version": 3,
+  "name": "Global Dark Theme",
+  "version": "1.0",
+  "description": "A dark theme applied to all websites",
+  "theme": {
+    "colors": {
+      "frame": [
+        16,
+        16,
+        16
+      ],
+      "frame_inactive": [
+        24,
+        24,
+        24
+      ],
+      "toolbar": [
+        0,
+        0,
+        0
+      ],
+      "tab_text": [
+        255,
+        255,
+        255
+      ],
+      "tab_background_text": [
+        62,
+        59,
+        137
+      ],
+      "bookmark_text": [
+        62,
+        59,
+        137
+      ],
+      "omnibox_text": [
+        62,
+        59,
+        137
+      ],
+      "omnibox_background": [
+        16,
+        16,
+        16
+      ],
+      "toolbar_button_icon": [
+        62,
+        59,
+        137
+      ]
+    }
+  }
+}
